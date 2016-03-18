@@ -1,0 +1,22 @@
+{
+  "description": "Snes Controller (USB)",
+
+  "vendorID": 2079,
+  "productID": 58369,
+
+  "axis": [
+    { "name": "x", "id": 1 },
+    { "name": "y", "id": 0 }
+  ],
+
+  "buttons": [
+    { "name": "x", "id": 0 },
+    { "name": "y", "id": 3 },
+    { "name": "b", "id": 2 },
+    { "name": "a", "id": 1 },
+    { "name": "l", "id": 4 },
+    { "name": "r", "id": 5 },
+    { "name": "start", "id": 9 },
+    { "name": "select", "id": 8 }
+  ]
+}
